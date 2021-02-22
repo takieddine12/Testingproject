@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         // TODO : This is Change from Part 1
         new TextView(this).setText("This is part 1 of code");
         new TextView(this).setText("I have added code from part 2");
+        new TextView(this).setText("I have new code from part 1");
 
     }
 }
